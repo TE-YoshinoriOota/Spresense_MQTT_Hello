@@ -11,8 +11,8 @@ https://www.eclipse.org/downloads/download.php?file=/paho/arduino_1.0.0.zip
 You will get arduino_1.0.0.zip containing MQTT library developed by IBM.
 To install it to Arduino IDE, use "Add . ZIP library" in "Include Library" on the "Sketch" menu.
 
-If you install it successfully, you can see "MQTT Clinet" in "Examples". 
-After confirming it, open this sketch and upload your image to Spresense on LTE-M Board.
+When you install it successfully, you can see "MQTT Clinet" in "Examples". 
+After confirming it, download this sketch and compile it and upload your image to Spresense with LTE-M Board.
 
 Note:
 The test site of "iot.eclipse.org" is no longer available, so I replaced the site to "test.mosquitto.org"
